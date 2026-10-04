@@ -1,0 +1,5 @@
+JP.22	Kyoto
+JP.32	Osaka
+AU.02	New South Wales
+SG.01	Central Singapore
+CH.ZH	Zurich

@@ -1,0 +1,4 @@
+JP	JPN	392	JA	Japan
+AU	AUS	036	AS	Australia
+SG	SGP	702	SN	Singapore
+CH	CHE	756	SZ	Switzerland
